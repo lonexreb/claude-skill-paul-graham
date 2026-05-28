@@ -1,0 +1,1161 @@
+{
+  "source": "https://www.paulgraham.com/articles.html",
+  "count": 231,
+  "essays": [
+    {
+      "title": "How to Do Great Work",
+      "url": "https://www.paulgraham.com/greatwork.html",
+      "slug": "greatwork"
+    },
+    {
+      "title": "Having Kids",
+      "url": "https://www.paulgraham.com/kids.html",
+      "slug": "kids"
+    },
+    {
+      "title": "How to Lose Time and Money",
+      "url": "https://www.paulgraham.com/selfindulgence.html",
+      "slug": "selfindulgence"
+    },
+    {
+      "title": "How to Convert Between Wealth and Income Tax",
+      "url": "https://www.paulgraham.com/winc.html",
+      "slug": "winc"
+    },
+    {
+      "title": "The Brand Age",
+      "url": "https://www.paulgraham.com/brandage.html",
+      "slug": "brandage"
+    },
+    {
+      "title": "The Shape of the Essay Field",
+      "url": "https://www.paulgraham.com/field.html",
+      "slug": "field"
+    },
+    {
+      "title": "Good Writing",
+      "url": "https://www.paulgraham.com/goodwriting.html",
+      "slug": "goodwriting"
+    },
+    {
+      "title": "What to Do",
+      "url": "https://www.paulgraham.com/do.html",
+      "slug": "do"
+    },
+    {
+      "title": "The Origins of Wokeness",
+      "url": "https://www.paulgraham.com/woke.html",
+      "slug": "woke"
+    },
+    {
+      "title": "Writes and Write-Nots",
+      "url": "https://www.paulgraham.com/writes.html",
+      "slug": "writes"
+    },
+    {
+      "title": "When To Do What You Love",
+      "url": "https://www.paulgraham.com/when.html",
+      "slug": "when"
+    },
+    {
+      "title": "Founder Mode",
+      "url": "https://www.paulgraham.com/foundermode.html",
+      "slug": "foundermode"
+    },
+    {
+      "title": "The Right Kind of Stubborn",
+      "url": "https://www.paulgraham.com/persistence.html",
+      "slug": "persistence"
+    },
+    {
+      "title": "The Reddits",
+      "url": "https://www.paulgraham.com/reddits.html",
+      "slug": "reddits"
+    },
+    {
+      "title": "How to Start Google",
+      "url": "https://www.paulgraham.com/google.html",
+      "slug": "google"
+    },
+    {
+      "title": "The Best Essay",
+      "url": "https://www.paulgraham.com/best.html",
+      "slug": "best"
+    },
+    {
+      "title": "Superlinear Returns",
+      "url": "https://www.paulgraham.com/superlinear.html",
+      "slug": "superlinear"
+    },
+    {
+      "title": "How to Get New Ideas",
+      "url": "https://www.paulgraham.com/getideas.html",
+      "slug": "getideas"
+    },
+    {
+      "title": "The Need to Read",
+      "url": "https://www.paulgraham.com/read.html",
+      "slug": "read"
+    },
+    {
+      "title": "What You (Want to)* Want",
+      "url": "https://www.paulgraham.com/want.html",
+      "slug": "want"
+    },
+    {
+      "title": "Alien Truth",
+      "url": "https://www.paulgraham.com/alien.html",
+      "slug": "alien"
+    },
+    {
+      "title": "What I've Learned from Users",
+      "url": "https://www.paulgraham.com/users.html",
+      "slug": "users"
+    },
+    {
+      "title": "Heresy",
+      "url": "https://www.paulgraham.com/heresy.html",
+      "slug": "heresy"
+    },
+    {
+      "title": "Putting Ideas into Words",
+      "url": "https://www.paulgraham.com/words.html",
+      "slug": "words"
+    },
+    {
+      "title": "Is There Such a Thing as Good Taste?",
+      "url": "https://www.paulgraham.com/goodtaste.html",
+      "slug": "goodtaste"
+    },
+    {
+      "title": "Beyond Smart",
+      "url": "https://www.paulgraham.com/smart.html",
+      "slug": "smart"
+    },
+    {
+      "title": "Weird Languages",
+      "url": "https://www.paulgraham.com/weird.html",
+      "slug": "weird"
+    },
+    {
+      "title": "How to Work Hard",
+      "url": "https://www.paulgraham.com/hwh.html",
+      "slug": "hwh"
+    },
+    {
+      "title": "A Project of One's Own",
+      "url": "https://www.paulgraham.com/own.html",
+      "slug": "own"
+    },
+    {
+      "title": "Fierce Nerds",
+      "url": "https://www.paulgraham.com/fn.html",
+      "slug": "fn"
+    },
+    {
+      "title": "Crazy New Ideas",
+      "url": "https://www.paulgraham.com/newideas.html",
+      "slug": "newideas"
+    },
+    {
+      "title": "An NFT That Saves Lives",
+      "url": "https://www.paulgraham.com/nft.html",
+      "slug": "nft"
+    },
+    {
+      "title": "The Real Reason to End the Death Penalty",
+      "url": "https://www.paulgraham.com/real.html",
+      "slug": "real"
+    },
+    {
+      "title": "How People Get Rich Now",
+      "url": "https://www.paulgraham.com/richnow.html",
+      "slug": "richnow"
+    },
+    {
+      "title": "Write Simply",
+      "url": "https://www.paulgraham.com/simply.html",
+      "slug": "simply"
+    },
+    {
+      "title": "Donate Unrestricted",
+      "url": "https://www.paulgraham.com/donate.html",
+      "slug": "donate"
+    },
+    {
+      "title": "What I Worked On",
+      "url": "https://www.paulgraham.com/worked.html",
+      "slug": "worked"
+    },
+    {
+      "title": "Earnestness",
+      "url": "https://www.paulgraham.com/earnest.html",
+      "slug": "earnest"
+    },
+    {
+      "title": "Billionaires Build",
+      "url": "https://www.paulgraham.com/ace.html",
+      "slug": "ace"
+    },
+    {
+      "title": "The Airbnbs",
+      "url": "https://www.paulgraham.com/airbnbs.html",
+      "slug": "airbnbs"
+    },
+    {
+      "title": "How to Think for Yourself",
+      "url": "https://www.paulgraham.com/think.html",
+      "slug": "think"
+    },
+    {
+      "title": "Early Work",
+      "url": "https://www.paulgraham.com/early.html",
+      "slug": "early"
+    },
+    {
+      "title": "Modeling a Wealth Tax",
+      "url": "https://www.paulgraham.com/wtax.html",
+      "slug": "wtax"
+    },
+    {
+      "title": "The Four Quadrants of Conformism",
+      "url": "https://www.paulgraham.com/conformism.html",
+      "slug": "conformism"
+    },
+    {
+      "title": "Orthodox Privilege",
+      "url": "https://www.paulgraham.com/orth.html",
+      "slug": "orth"
+    },
+    {
+      "title": "Coronavirus and Credibility",
+      "url": "https://www.paulgraham.com/cred.html",
+      "slug": "cred"
+    },
+    {
+      "title": "How to Write Usefully",
+      "url": "https://www.paulgraham.com/useful.html",
+      "slug": "useful"
+    },
+    {
+      "title": "Being a Noob",
+      "url": "https://www.paulgraham.com/noob.html",
+      "slug": "noob"
+    },
+    {
+      "title": "Haters",
+      "url": "https://www.paulgraham.com/fh.html",
+      "slug": "fh"
+    },
+    {
+      "title": "The Two Kinds of Moderate",
+      "url": "https://www.paulgraham.com/mod.html",
+      "slug": "mod"
+    },
+    {
+      "title": "Fashionable Problems",
+      "url": "https://www.paulgraham.com/fp.html",
+      "slug": "fp"
+    },
+    {
+      "title": "The Lesson to Unlearn",
+      "url": "https://www.paulgraham.com/lesson.html",
+      "slug": "lesson"
+    },
+    {
+      "title": "Novelty and Heresy",
+      "url": "https://www.paulgraham.com/nov.html",
+      "slug": "nov"
+    },
+    {
+      "title": "The Bus Ticket Theory of Genius",
+      "url": "https://www.paulgraham.com/genius.html",
+      "slug": "genius"
+    },
+    {
+      "title": "General and Surprising",
+      "url": "https://www.paulgraham.com/sun.html",
+      "slug": "sun"
+    },
+    {
+      "title": "Charisma / Power",
+      "url": "https://www.paulgraham.com/pow.html",
+      "slug": "pow"
+    },
+    {
+      "title": "The Risk of Discovery",
+      "url": "https://www.paulgraham.com/disc.html",
+      "slug": "disc"
+    },
+    {
+      "title": "How to Make Pittsburgh a Startup Hub",
+      "url": "https://www.paulgraham.com/pgh.html",
+      "slug": "pgh"
+    },
+    {
+      "title": "Life is Short",
+      "url": "https://www.paulgraham.com/vb.html",
+      "slug": "vb"
+    },
+    {
+      "title": "Economic Inequality",
+      "url": "https://www.paulgraham.com/ineq.html",
+      "slug": "ineq"
+    },
+    {
+      "title": "The Refragmentation",
+      "url": "https://www.paulgraham.com/re.html",
+      "slug": "re"
+    },
+    {
+      "title": "Jessica Livingston",
+      "url": "https://www.paulgraham.com/jessica.html",
+      "slug": "jessica"
+    },
+    {
+      "title": "A Way to Detect Bias",
+      "url": "https://www.paulgraham.com/bias.html",
+      "slug": "bias"
+    },
+    {
+      "title": "Write Like You Talk",
+      "url": "https://www.paulgraham.com/talk.html",
+      "slug": "talk"
+    },
+    {
+      "title": "Default Alive or Default Dead?",
+      "url": "https://www.paulgraham.com/aord.html",
+      "slug": "aord"
+    },
+    {
+      "title": "Why It's Safe for Founders to Be Nice",
+      "url": "https://www.paulgraham.com/safe.html",
+      "slug": "safe"
+    },
+    {
+      "title": "Change Your Name",
+      "url": "https://www.paulgraham.com/name.html",
+      "slug": "name"
+    },
+    {
+      "title": "What Microsoft Is this the Altair Basic of?",
+      "url": "https://www.paulgraham.com/altair.html",
+      "slug": "altair"
+    },
+    {
+      "title": "The Ronco Principle",
+      "url": "https://www.paulgraham.com/ronco.html",
+      "slug": "ronco"
+    },
+    {
+      "title": "What Doesn't Seem Like Work?",
+      "url": "https://www.paulgraham.com/work.html",
+      "slug": "work"
+    },
+    {
+      "title": "Don't Talk to Corp Dev",
+      "url": "https://www.paulgraham.com/corpdev.html",
+      "slug": "corpdev"
+    },
+    {
+      "title": "Let the Other 95% of Great Programmers In",
+      "url": "https://www.paulgraham.com/95.html",
+      "slug": "95"
+    },
+    {
+      "title": "How to Be an Expert in a Changing World",
+      "url": "https://www.paulgraham.com/ecw.html",
+      "slug": "ecw"
+    },
+    {
+      "title": "How You Know",
+      "url": "https://www.paulgraham.com/know.html",
+      "slug": "know"
+    },
+    {
+      "title": "The Fatal Pinch",
+      "url": "https://www.paulgraham.com/pinch.html",
+      "slug": "pinch"
+    },
+    {
+      "title": "Mean People Fail",
+      "url": "https://www.paulgraham.com/mean.html",
+      "slug": "mean"
+    },
+    {
+      "title": "Before the Startup",
+      "url": "https://www.paulgraham.com/before.html",
+      "slug": "before"
+    },
+    {
+      "title": "How to Raise Money",
+      "url": "https://www.paulgraham.com/fr.html",
+      "slug": "fr"
+    },
+    {
+      "title": "Investor Herd Dynamics",
+      "url": "https://www.paulgraham.com/herd.html",
+      "slug": "herd"
+    },
+    {
+      "title": "How to Convince Investors",
+      "url": "https://www.paulgraham.com/convince.html",
+      "slug": "convince"
+    },
+    {
+      "title": "Do Things that Don't Scale",
+      "url": "https://www.paulgraham.com/ds.html",
+      "slug": "ds"
+    },
+    {
+      "title": "Startup Investing Trends",
+      "url": "https://www.paulgraham.com/invtrend.html",
+      "slug": "invtrend"
+    },
+    {
+      "title": "How to Get Startup Ideas",
+      "url": "https://www.paulgraham.com/startupideas.html",
+      "slug": "startupideas"
+    },
+    {
+      "title": "The Hardware Renaissance",
+      "url": "https://www.paulgraham.com/hw.html",
+      "slug": "hw"
+    },
+    {
+      "title": "Startup = Growth",
+      "url": "https://www.paulgraham.com/growth.html",
+      "slug": "growth"
+    },
+    {
+      "title": "Black Swan Farming",
+      "url": "https://www.paulgraham.com/swan.html",
+      "slug": "swan"
+    },
+    {
+      "title": "The Top of My Todo List",
+      "url": "https://www.paulgraham.com/todo.html",
+      "slug": "todo"
+    },
+    {
+      "title": "Writing and Speaking",
+      "url": "https://www.paulgraham.com/speak.html",
+      "slug": "speak"
+    },
+    {
+      "title": "How Y Combinator Started",
+      "url": "https://www.paulgraham.com/ycstart.html",
+      "slug": "ycstart"
+    },
+    {
+      "title": "Defining Property",
+      "url": "https://www.paulgraham.com/property.html",
+      "slug": "property"
+    },
+    {
+      "title": "Frighteningly Ambitious Startup Ideas",
+      "url": "https://www.paulgraham.com/ambitious.html",
+      "slug": "ambitious"
+    },
+    {
+      "title": "A Word to the Resourceful",
+      "url": "https://www.paulgraham.com/word.html",
+      "slug": "word"
+    },
+    {
+      "title": "Schlep Blindness",
+      "url": "https://www.paulgraham.com/schlep.html",
+      "slug": "schlep"
+    },
+    {
+      "title": "Snapshot: Viaweb, June 1998",
+      "url": "https://www.paulgraham.com/vw.html",
+      "slug": "vw"
+    },
+    {
+      "title": "Why Startup Hubs Work",
+      "url": "https://www.paulgraham.com/hubs.html",
+      "slug": "hubs"
+    },
+    {
+      "title": "The Patent Pledge",
+      "url": "https://www.paulgraham.com/patentpledge.html",
+      "slug": "patentpledge"
+    },
+    {
+      "title": "Subject: Airbnb",
+      "url": "https://www.paulgraham.com/airbnb.html",
+      "slug": "airbnb"
+    },
+    {
+      "title": "Founder Control",
+      "url": "https://www.paulgraham.com/control.html",
+      "slug": "control"
+    },
+    {
+      "title": "Tablets",
+      "url": "https://www.paulgraham.com/tablets.html",
+      "slug": "tablets"
+    },
+    {
+      "title": "What We Look for in Founders",
+      "url": "https://www.paulgraham.com/founders.html",
+      "slug": "founders"
+    },
+    {
+      "title": "The New Funding Landscape",
+      "url": "https://www.paulgraham.com/superangels.html",
+      "slug": "superangels"
+    },
+    {
+      "title": "Where to See Silicon Valley",
+      "url": "https://www.paulgraham.com/seesv.html",
+      "slug": "seesv"
+    },
+    {
+      "title": "High Resolution Fundraising",
+      "url": "https://www.paulgraham.com/hiresfund.html",
+      "slug": "hiresfund"
+    },
+    {
+      "title": "What Happened to Yahoo",
+      "url": "https://www.paulgraham.com/yahoo.html",
+      "slug": "yahoo"
+    },
+    {
+      "title": "The Future of Startup Funding",
+      "url": "https://www.paulgraham.com/future.html",
+      "slug": "future"
+    },
+    {
+      "title": "The Acceleration of Addictiveness",
+      "url": "https://www.paulgraham.com/addiction.html",
+      "slug": "addiction"
+    },
+    {
+      "title": "The Top Idea in Your Mind",
+      "url": "https://www.paulgraham.com/top.html",
+      "slug": "top"
+    },
+    {
+      "title": "Organic Startup Ideas",
+      "url": "https://www.paulgraham.com/organic.html",
+      "slug": "organic"
+    },
+    {
+      "title": "Apple's Mistake",
+      "url": "https://www.paulgraham.com/apple.html",
+      "slug": "apple"
+    },
+    {
+      "title": "What Startups Are Really Like",
+      "url": "https://www.paulgraham.com/really.html",
+      "slug": "really"
+    },
+    {
+      "title": "Persuade xor Discover",
+      "url": "https://www.paulgraham.com/discover.html",
+      "slug": "discover"
+    },
+    {
+      "title": "Post-Medium Publishing",
+      "url": "https://www.paulgraham.com/publishing.html",
+      "slug": "publishing"
+    },
+    {
+      "title": "The List of N Things",
+      "url": "https://www.paulgraham.com/nthings.html",
+      "slug": "nthings"
+    },
+    {
+      "title": "The Anatomy of Determination",
+      "url": "https://www.paulgraham.com/determination.html",
+      "slug": "determination"
+    },
+    {
+      "title": "What Kate Saw in Silicon Valley",
+      "url": "https://www.paulgraham.com/kate.html",
+      "slug": "kate"
+    },
+    {
+      "title": "The Trouble with the Segway",
+      "url": "https://www.paulgraham.com/segway.html",
+      "slug": "segway"
+    },
+    {
+      "title": "Ramen Profitable",
+      "url": "https://www.paulgraham.com/ramenprofitable.html",
+      "slug": "ramenprofitable"
+    },
+    {
+      "title": "Maker's Schedule, Manager's Schedule",
+      "url": "https://www.paulgraham.com/makersschedule.html",
+      "slug": "makersschedule"
+    },
+    {
+      "title": "A Local Revolution?",
+      "url": "https://www.paulgraham.com/revolution.html",
+      "slug": "revolution"
+    },
+    {
+      "title": "Why Twitter is a Big Deal",
+      "url": "https://www.paulgraham.com/twitter.html",
+      "slug": "twitter"
+    },
+    {
+      "title": "The Founder Visa",
+      "url": "https://www.paulgraham.com/foundervisa.html",
+      "slug": "foundervisa"
+    },
+    {
+      "title": "Five Founders",
+      "url": "https://www.paulgraham.com/5founders.html",
+      "slug": "5founders"
+    },
+    {
+      "title": "Relentlessly Resourceful",
+      "url": "https://www.paulgraham.com/relres.html",
+      "slug": "relres"
+    },
+    {
+      "title": "How to Be an Angel Investor",
+      "url": "https://www.paulgraham.com/angelinvesting.html",
+      "slug": "angelinvesting"
+    },
+    {
+      "title": "Why TV Lost",
+      "url": "https://www.paulgraham.com/convergence.html",
+      "slug": "convergence"
+    },
+    {
+      "title": "Can You Buy a Silicon Valley?  Maybe.",
+      "url": "https://www.paulgraham.com/maybe.html",
+      "slug": "maybe"
+    },
+    {
+      "title": "What I've Learned from Hacker News",
+      "url": "https://www.paulgraham.com/hackernews.html",
+      "slug": "hackernews"
+    },
+    {
+      "title": "Startups in 13 Sentences",
+      "url": "https://www.paulgraham.com/13sentences.html",
+      "slug": "13sentences"
+    },
+    {
+      "title": "Keep Your Identity Small",
+      "url": "https://www.paulgraham.com/identity.html",
+      "slug": "identity"
+    },
+    {
+      "title": "After Credentials",
+      "url": "https://www.paulgraham.com/credentials.html",
+      "slug": "credentials"
+    },
+    {
+      "title": "Could VC be a Casualty of the Recession?",
+      "url": "https://www.paulgraham.com/divergence.html",
+      "slug": "divergence"
+    },
+    {
+      "title": "The High-Res Society",
+      "url": "https://www.paulgraham.com/highres.html",
+      "slug": "highres"
+    },
+    {
+      "title": "The Other Half of \"Artists Ship\"",
+      "url": "https://www.paulgraham.com/artistsship.html",
+      "slug": "artistsship"
+    },
+    {
+      "title": "Why to Start a Startup in a Bad Economy",
+      "url": "https://www.paulgraham.com/badeconomy.html",
+      "slug": "badeconomy"
+    },
+    {
+      "title": "A Fundraising Survival Guide",
+      "url": "https://www.paulgraham.com/fundraising.html",
+      "slug": "fundraising"
+    },
+    {
+      "title": "The Pooled-Risk Company Management Company",
+      "url": "https://www.paulgraham.com/prcmc.html",
+      "slug": "prcmc"
+    },
+    {
+      "title": "Cities and Ambition",
+      "url": "https://www.paulgraham.com/cities.html",
+      "slug": "cities"
+    },
+    {
+      "title": "Disconnecting Distraction",
+      "url": "https://www.paulgraham.com/distraction.html",
+      "slug": "distraction"
+    },
+    {
+      "title": "Lies We Tell Kids",
+      "url": "https://www.paulgraham.com/lies.html",
+      "slug": "lies"
+    },
+    {
+      "title": "Be Good",
+      "url": "https://www.paulgraham.com/good.html",
+      "slug": "good"
+    },
+    {
+      "title": "Why There Aren't More Googles",
+      "url": "https://www.paulgraham.com/googles.html",
+      "slug": "googles"
+    },
+    {
+      "title": "Some Heroes",
+      "url": "https://www.paulgraham.com/heroes.html",
+      "slug": "heroes"
+    },
+    {
+      "title": "How to Disagree",
+      "url": "https://www.paulgraham.com/disagree.html",
+      "slug": "disagree"
+    },
+    {
+      "title": "You Weren't Meant to Have a Boss",
+      "url": "https://www.paulgraham.com/boss.html",
+      "slug": "boss"
+    },
+    {
+      "title": "A New Venture Animal",
+      "url": "https://www.paulgraham.com/ycombinator.html",
+      "slug": "ycombinator"
+    },
+    {
+      "title": "Trolls",
+      "url": "https://www.paulgraham.com/trolls.html",
+      "slug": "trolls"
+    },
+    {
+      "title": "Six Principles for Making New Things",
+      "url": "https://www.paulgraham.com/newthings.html",
+      "slug": "newthings"
+    },
+    {
+      "title": "Why to Move to a Startup Hub",
+      "url": "https://www.paulgraham.com/startuphubs.html",
+      "slug": "startuphubs"
+    },
+    {
+      "title": "The Future of Web Startups",
+      "url": "https://www.paulgraham.com/webstartups.html",
+      "slug": "webstartups"
+    },
+    {
+      "title": "How to Do Philosophy",
+      "url": "https://www.paulgraham.com/philosophy.html",
+      "slug": "philosophy"
+    },
+    {
+      "title": "News from the Front",
+      "url": "https://www.paulgraham.com/colleges.html",
+      "slug": "colleges"
+    },
+    {
+      "title": "How Not to Die",
+      "url": "https://www.paulgraham.com/die.html",
+      "slug": "die"
+    },
+    {
+      "title": "Holding a Program in One's Head",
+      "url": "https://www.paulgraham.com/head.html",
+      "slug": "head"
+    },
+    {
+      "title": "Stuff",
+      "url": "https://www.paulgraham.com/stuff.html",
+      "slug": "stuff"
+    },
+    {
+      "title": "The Equity Equation",
+      "url": "https://www.paulgraham.com/equity.html",
+      "slug": "equity"
+    },
+    {
+      "title": "An Alternative Theory of Unions",
+      "url": "https://www.paulgraham.com/unions.html",
+      "slug": "unions"
+    },
+    {
+      "title": "The Hacker's Guide to Investors",
+      "url": "https://www.paulgraham.com/guidetoinvestors.html",
+      "slug": "guidetoinvestors"
+    },
+    {
+      "title": "Two Kinds of Judgement",
+      "url": "https://www.paulgraham.com/judgement.html",
+      "slug": "judgement"
+    },
+    {
+      "title": "Microsoft is Dead",
+      "url": "https://www.paulgraham.com/microsoft.html",
+      "slug": "microsoft"
+    },
+    {
+      "title": "Why to Not Not Start a Startup",
+      "url": "https://www.paulgraham.com/notnot.html",
+      "slug": "notnot"
+    },
+    {
+      "title": "Is It Worth Being Wise?",
+      "url": "https://www.paulgraham.com/wisdom.html",
+      "slug": "wisdom"
+    },
+    {
+      "title": "Learning from Founders",
+      "url": "https://www.paulgraham.com/foundersatwork.html",
+      "slug": "foundersatwork"
+    },
+    {
+      "title": "How Art Can Be Good",
+      "url": "https://www.paulgraham.com/goodart.html",
+      "slug": "goodart"
+    },
+    {
+      "title": "The 18 Mistakes That Kill Startups",
+      "url": "https://www.paulgraham.com/startupmistakes.html",
+      "slug": "startupmistakes"
+    },
+    {
+      "title": "A Student's Guide to Startups",
+      "url": "https://www.paulgraham.com/mit.html",
+      "slug": "mit"
+    },
+    {
+      "title": "How to Present to Investors",
+      "url": "https://www.paulgraham.com/investors.html",
+      "slug": "investors"
+    },
+    {
+      "title": "Copy What You Like",
+      "url": "https://www.paulgraham.com/copy.html",
+      "slug": "copy"
+    },
+    {
+      "title": "The Island Test",
+      "url": "https://www.paulgraham.com/island.html",
+      "slug": "island"
+    },
+    {
+      "title": "The Power of the Marginal",
+      "url": "https://www.paulgraham.com/marginal.html",
+      "slug": "marginal"
+    },
+    {
+      "title": "Why Startups Condense in America",
+      "url": "https://www.paulgraham.com/america.html",
+      "slug": "america"
+    },
+    {
+      "title": "How to Be Silicon Valley",
+      "url": "https://www.paulgraham.com/siliconvalley.html",
+      "slug": "siliconvalley"
+    },
+    {
+      "title": "The Hardest Lessons for Startups to Learn",
+      "url": "https://www.paulgraham.com/startuplessons.html",
+      "slug": "startuplessons"
+    },
+    {
+      "title": "See Randomness",
+      "url": "https://www.paulgraham.com/randomness.html",
+      "slug": "randomness"
+    },
+    {
+      "title": "Are Software Patents Evil?",
+      "url": "https://www.paulgraham.com/softwarepatents.html",
+      "slug": "softwarepatents"
+    },
+    {
+      "title": "6,631,372",
+      "url": "https://www.paulgraham.com/6631327.html",
+      "slug": "6631327"
+    },
+    {
+      "title": "Why YC",
+      "url": "https://www.paulgraham.com/whyyc.html",
+      "slug": "whyyc"
+    },
+    {
+      "title": "How to Do What You Love",
+      "url": "https://www.paulgraham.com/love.html",
+      "slug": "love"
+    },
+    {
+      "title": "Good and Bad Procrastination",
+      "url": "https://www.paulgraham.com/procrastination.html",
+      "slug": "procrastination"
+    },
+    {
+      "title": "Web 2.0",
+      "url": "https://www.paulgraham.com/web20.html",
+      "slug": "web20"
+    },
+    {
+      "title": "How to Fund a Startup",
+      "url": "https://www.paulgraham.com/startupfunding.html",
+      "slug": "startupfunding"
+    },
+    {
+      "title": "The Venture Capital Squeeze",
+      "url": "https://www.paulgraham.com/vcsqueeze.html",
+      "slug": "vcsqueeze"
+    },
+    {
+      "title": "Ideas for Startups",
+      "url": "https://www.paulgraham.com/ideas.html",
+      "slug": "ideas"
+    },
+    {
+      "title": "What I Did this Summer",
+      "url": "https://www.paulgraham.com/sfp.html",
+      "slug": "sfp"
+    },
+    {
+      "title": "Inequality and Risk",
+      "url": "https://www.paulgraham.com/inequality.html",
+      "slug": "inequality"
+    },
+    {
+      "title": "After the Ladder",
+      "url": "https://www.paulgraham.com/ladder.html",
+      "slug": "ladder"
+    },
+    {
+      "title": "What Business Can Learn from Open Source",
+      "url": "https://www.paulgraham.com/opensource.html",
+      "slug": "opensource"
+    },
+    {
+      "title": "Hiring is Obsolete",
+      "url": "https://www.paulgraham.com/hiring.html",
+      "slug": "hiring"
+    },
+    {
+      "title": "The Submarine",
+      "url": "https://www.paulgraham.com/submarine.html",
+      "slug": "submarine"
+    },
+    {
+      "title": "Why Smart People Have Bad Ideas",
+      "url": "https://www.paulgraham.com/bronze.html",
+      "slug": "bronze"
+    },
+    {
+      "title": "Return of the Mac",
+      "url": "https://www.paulgraham.com/mac.html",
+      "slug": "mac"
+    },
+    {
+      "title": "Writing,  Briefly",
+      "url": "https://www.paulgraham.com/writing44.html",
+      "slug": "writing44"
+    },
+    {
+      "title": "Undergraduation",
+      "url": "https://www.paulgraham.com/college.html",
+      "slug": "college"
+    },
+    {
+      "title": "A Unified Theory of VC Suckage",
+      "url": "https://www.paulgraham.com/venturecapital.html",
+      "slug": "venturecapital"
+    },
+    {
+      "title": "How to Start a Startup",
+      "url": "https://www.paulgraham.com/start.html",
+      "slug": "start"
+    },
+    {
+      "title": "What You'll Wish You'd Known",
+      "url": "https://www.paulgraham.com/hs.html",
+      "slug": "hs"
+    },
+    {
+      "title": "Made in USA",
+      "url": "https://www.paulgraham.com/usa.html",
+      "slug": "usa"
+    },
+    {
+      "title": "It's Charisma, Stupid",
+      "url": "https://www.paulgraham.com/charisma.html",
+      "slug": "charisma"
+    },
+    {
+      "title": "Bradley's Ghost",
+      "url": "https://www.paulgraham.com/polls.html",
+      "slug": "polls"
+    },
+    {
+      "title": "A Version 1.0",
+      "url": "https://www.paulgraham.com/laundry.html",
+      "slug": "laundry"
+    },
+    {
+      "title": "What the Bubble Got Right",
+      "url": "https://www.paulgraham.com/bubble.html",
+      "slug": "bubble"
+    },
+    {
+      "title": "The Age of the Essay",
+      "url": "https://www.paulgraham.com/essay.html",
+      "slug": "essay"
+    },
+    {
+      "title": "The Python Paradox",
+      "url": "https://www.paulgraham.com/pypar.html",
+      "slug": "pypar"
+    },
+    {
+      "title": "Great Hackers",
+      "url": "https://www.paulgraham.com/gh.html",
+      "slug": "gh"
+    },
+    {
+      "title": "Mind the Gap",
+      "url": "https://www.paulgraham.com/gap.html",
+      "slug": "gap"
+    },
+    {
+      "title": "How to Make Wealth",
+      "url": "https://www.paulgraham.com/wealth.html",
+      "slug": "wealth"
+    },
+    {
+      "title": "The Word \"Hacker\"",
+      "url": "https://www.paulgraham.com/gba.html",
+      "slug": "gba"
+    },
+    {
+      "title": "What You Can't Say",
+      "url": "https://www.paulgraham.com/say.html",
+      "slug": "say"
+    },
+    {
+      "title": "Filters that Fight Back",
+      "url": "https://www.paulgraham.com/ffb.html",
+      "slug": "ffb"
+    },
+    {
+      "title": "Hackers and Painters",
+      "url": "https://www.paulgraham.com/hp.html",
+      "slug": "hp"
+    },
+    {
+      "title": "If Lisp is So Great",
+      "url": "https://www.paulgraham.com/iflisp.html",
+      "slug": "iflisp"
+    },
+    {
+      "title": "The Hundred-Year Language",
+      "url": "https://www.paulgraham.com/hundred.html",
+      "slug": "hundred"
+    },
+    {
+      "title": "Why Nerds are Unpopular",
+      "url": "https://www.paulgraham.com/nerds.html",
+      "slug": "nerds"
+    },
+    {
+      "title": "Better Bayesian Filtering",
+      "url": "https://www.paulgraham.com/better.html",
+      "slug": "better"
+    },
+    {
+      "title": "Design and Research",
+      "url": "https://www.paulgraham.com/desres.html",
+      "slug": "desres"
+    },
+    {
+      "title": "A Plan for Spam",
+      "url": "https://www.paulgraham.com/spam.html",
+      "slug": "spam"
+    },
+    {
+      "title": "Revenge of the Nerds",
+      "url": "https://www.paulgraham.com/icad.html",
+      "slug": "icad"
+    },
+    {
+      "title": "Succinctness is Power",
+      "url": "https://www.paulgraham.com/power.html",
+      "slug": "power"
+    },
+    {
+      "title": "What Languages Fix",
+      "url": "https://www.paulgraham.com/fix.html",
+      "slug": "fix"
+    },
+    {
+      "title": "Taste for Makers",
+      "url": "https://www.paulgraham.com/taste.html",
+      "slug": "taste"
+    },
+    {
+      "title": "Why Arc Isn't Especially Object-Oriented",
+      "url": "https://www.paulgraham.com/noop.html",
+      "slug": "noop"
+    },
+    {
+      "title": "What Made Lisp Different",
+      "url": "https://www.paulgraham.com/diff.html",
+      "slug": "diff"
+    },
+    {
+      "title": "The Other Road Ahead",
+      "url": "https://www.paulgraham.com/road.html",
+      "slug": "road"
+    },
+    {
+      "title": "The Roots of Lisp",
+      "url": "https://www.paulgraham.com/rootsoflisp.html",
+      "slug": "rootsoflisp"
+    },
+    {
+      "title": "Five Questions about Language Design",
+      "url": "https://www.paulgraham.com/langdes.html",
+      "slug": "langdes"
+    },
+    {
+      "title": "Being Popular",
+      "url": "https://www.paulgraham.com/popular.html",
+      "slug": "popular"
+    },
+    {
+      "title": "Java's Cover",
+      "url": "https://www.paulgraham.com/javacover.html",
+      "slug": "javacover"
+    },
+    {
+      "title": "Beating the Averages",
+      "url": "https://www.paulgraham.com/avg.html",
+      "slug": "avg"
+    },
+    {
+      "title": "Lisp for Web-Based Applications",
+      "url": "https://www.paulgraham.com/lwba.html",
+      "slug": "lwba"
+    },
+    {
+      "title": "Programming Bottom-Up",
+      "url": "https://www.paulgraham.com/progbot.html",
+      "slug": "progbot"
+    },
+    {
+      "title": "This Year We Can End the Death Penalty in California",
+      "url": "https://www.paulgraham.com/prop62.html",
+      "slug": "prop62"
+    },
+    {
+      "title": "RSS",
+      "url": "https://www.paulgraham.com/rss.html",
+      "slug": "rss"
+    }
+  ]
+}
