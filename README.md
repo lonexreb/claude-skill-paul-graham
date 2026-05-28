@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.svg" alt="Paul Graham — a Claude Code skill on startups and high agency" width="100%" />
+</p>
+
 # claude-skill-paul-graham
 
 > A Claude Code skill that turns Paul Graham's essays on startups and high

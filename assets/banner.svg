@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-label="Paul Graham — a Claude Code skill on startups and high agency">
+  <title>Paul Graham — Claude Code skill</title>
+
+  <!-- legal-pad cream paper background -->
+  <rect width="1200" height="340" fill="#fffef5"/>
+
+  <!-- thin red margin rule down the left side (legal pad detail) -->
+  <line x1="68" y1="0" x2="68" y2="340" stroke="#d94a4a" stroke-width="1.25" opacity="0.55"/>
+
+  <!-- top horizontal rule like a section break in a PG essay -->
+  <line x1="90" y1="64" x2="1110" y2="64" stroke="#1a1a1a" stroke-width="1"/>
+
+  <!-- breadcrumb-style header: left = site, right = skill tag -->
+  <text x="90" y="48" font-family="Georgia, 'Times New Roman', Times, serif" font-size="20" font-style="italic" fill="#1a1a1a">paulgraham.com / skill</text>
+  <text x="1110" y="48" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#5a5a5a" text-anchor="end">claude code · MIT · v0.1</text>
+
+  <!-- main title in PG-essay serif -->
+  <text x="90" y="174" font-family="Georgia, 'Times New Roman', Times, serif" font-size="92" font-weight="700" fill="#1a1a1a" letter-spacing="-1">Paul Graham</text>
+
+  <!-- yellow highlighter swipe under the tagline (legal pad / studying flavor) -->
+  <rect x="86" y="206" width="720" height="34" fill="#ffe873" opacity="0.85"/>
+  <text x="90" y="232" font-family="Georgia, 'Times New Roman', Times, serif" font-size="26" fill="#1a1a1a">startups · high agency · timeless principles</text>
+
+  <!-- lisp-style comment for the Arc / hacker side of PG -->
+  <text x="90" y="296" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#444444">;; (make something people want)</text>
+
+  <!-- scattered closing parens — small decorative nod to Lisp -->
+  <text x="1110" y="300" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="56" fill="#e3d27a" opacity="0.75" text-anchor="end">)))</text>
+
+  <!-- bottom rule with a tiny essay-style footnote -->
+  <line x1="90" y1="320" x2="1110" y2="320" stroke="#1a1a1a" stroke-width="0.5" opacity="0.4"/>
+  <text x="90" y="336" font-family="Georgia, 'Times New Roman', Times, serif" font-size="11" font-style="italic" fill="#5a5a5a">curated · ~40 essays · drop into ~/.claude/skills/</text>
+</svg>
