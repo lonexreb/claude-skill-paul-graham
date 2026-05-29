@@ -4,24 +4,31 @@
 
 # claude-skill-paul-graham
 
-> A Claude Code skill that turns Paul Graham's essays on startups and high
-> agency into an on-demand advisor.
+> A Claude Code skill that puts Paul Graham's frameworks into every
+> brainstorming session — so when your brain hasn't reached for the
+> right essay, Claude does.
 
-Ask Claude *"should I quit my job to start a company?"* and this skill pulls
-the right PG essay, quotes the relevant line, and links you to the original.
+The point isn't to look up PG when you remember to. It's that when you're
+thinking out loud with Claude about an idea — *"I'm thinking about
+building X," "should I quit my job for this," "is this even worth doing"* —
+the right PG frame (schlep blindness, do things that don't scale, default
+alive, top idea in your mind, make something people want) shows up in the
+conversation *before* you'd have reached for it on your own.
 
-No marketing fluff. Just navigation by **intent** instead of by title.
+It's PG sitting next to you while you brainstorm, instead of PG on a
+shelf you'd have to remember to open.
 
 ## What this is
 
-Paul Graham has written ~225 essays at [paulgraham.com](https://www.paulgraham.com/articles.html).
+Paul Graham has written ~230 essays at [paulgraham.com](https://www.paulgraham.com/articles.html).
 They are some of the most useful writing on startups, founders, and high
 agency that exists — and they are completely unsearchable by what you
 actually need.
 
-This repo distills ~40 of them, organized by theme, with explicit
-**trigger rules** so Claude can match user questions to ideas without
-the user having to remember which essay said what.
+This repo distills ~40 of them, organized by theme, with **proactive
+trigger rules** so Claude surfaces the relevant frame the moment you
+start reasoning through a startup decision — even if you don't ask, and
+even if you've never read the essay.
 
 ## What's inside
 
@@ -68,17 +75,17 @@ cp -r .pg-skill/skills/paul-graham .claude/skills/
 That's it. Open Claude Code, ask a startup or founder question, and the skill
 auto-activates.
 
-## Usage examples
+## How it shows up in a brainstorm
 
 See [`examples/`](./examples/) for full transcripts. Quick taste:
 
-| You ask | Skill pulls |
+| You say (mid-brainstorm) | Claude surfaces |
 |---|---|
-| "How do I find a startup idea?" | `startup-ideas.md` → "How to Get Startup Ideas" |
-| "I want to be more ambitious." | `high-agency.md` → "Cities and Ambition", "What You Can't Say" |
-| "Is my idea any good?" | `startup-ideas.md` + `growth.md` |
-| "What makes a great founder?" | `founders.md` → "Relentlessly Resourceful" |
-| "Should I raise from this VC?" | `fundraising.md` → "How to Convince Investors" |
+| "Thinking about a tool for vendor invoice reconciliation. Sounds boring." | Schlep Blindness — boring is a moat |
+| "I want to be more ambitious but I can't focus." | The Top Idea in Your Mind — what's actually occupying the slot? |
+| "Not sure if this idea is too small." | Frighteningly Ambitious Startup Ideas — find the wedge into the big version |
+| "I should probably set up a funnel." | Do Things That Don't Scale — not yet; go meet the user |
+| "How do I know if a co-founder is right?" | What We Look for in Founders + Mean People Fail |
 
 ## What's NOT in here
 
